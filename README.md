@@ -17,7 +17,7 @@ Each service is containerized using Docker. You can find the Dockerfiles for eac
 ## Building Docker Images
 Navigate to the directory containing the Dockerfile for a service and run:
 
-``` docker build -t <username>/<service-name>:latest ``` .
+`docker build -t <username>/<service-name>:latest` .
 Replace <username> with your DockerHub username and <service-name> with the name of the service (e.g., user-service).
 
 ## Pushing Docker Images
