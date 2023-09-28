@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: posts-service
-        image: <YOUR_DOCKERHUB_USERNAME>/flaskblog-posts-service:latest
+        image: purvil1699/flaskblog-posts-service:latest
         ports:
         - containerPort: 5000

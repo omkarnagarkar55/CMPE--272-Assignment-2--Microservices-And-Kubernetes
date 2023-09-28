@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: frontend
-        image: <YOUR_DOCKERHUB_USERNAME>/flaskblog-frontend:latest
+        image: purvil1699/flaskblog-frontend:latest
         ports:
         - containerPort: 5000
