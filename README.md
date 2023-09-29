@@ -1,5 +1,5 @@
 # CMPE 272 Assignment 2: Microservices And Kubernetes
-### Application Report :- (Link To Report)[https://github.com/omkarnagarkar55/CMPE--272-Assignment-2--Microservices-And-Kubernetes/blob/main/ESP%20Assignment%202%20-%20Team%20Yoda.pdf]
+### Application Report :- [Link To Report](https://github.com/omkarnagarkar55/CMPE--272-Assignment-2--Microservices-And-Kubernetes/blob/main/ESP%20Assignment%202%20-%20Team%20Yoda.pdf)
 ## Flask Blog Microservices
 This repository contains the microservices architecture of a Flask blog application, which has been refactored from a monolithic design. The application is containerized using Docker and is deployable on Kubernetes.
 
