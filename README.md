@@ -35,3 +35,6 @@ Each service is containerized using Docker. You can find the Dockerfiles for eac
 Kubernetes manifests for deploying the services are available in the k8s directory. These include configurations for deployments, services, and other necessary resources.
 
 ## Screenshots
+
+![image](https://github.com/omkarnagarkar55/CMPE--272-Assignment-2--Microservices-And-Kubernetes/assets/60735358/621c807c-2732-4460-89e3-57f76c4f7508)
+
